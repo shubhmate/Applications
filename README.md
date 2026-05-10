@@ -1,1 +1,1 @@
-Simple Full Stack Application (Flask, Express)
+Simple Full Stack Application (Python)
